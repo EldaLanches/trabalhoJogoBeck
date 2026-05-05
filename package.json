@@ -1,0 +1,12 @@
+{
+  "name": "homework-python-class-object-json",
+  "version": "1.0.0",
+  "description": "> “Vocês precisam fazer o sistema funcionar.”",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
